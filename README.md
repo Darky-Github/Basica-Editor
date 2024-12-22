@@ -1,5 +1,5 @@
-# Basica-Editor
-Easy-to-use Text editor.
+# BasicaTerminal
+Easy-to-use Text editor now for terminal.
 
 ## Features
 - Write text.
@@ -12,7 +12,7 @@ Easy-to-use Text editor.
 ```bash
 git clone https://www.github.com/Darky-Github/Basica-Editor.git
 cd Basica-Editor
-python3 basica-editor.py
+python3 basicaterm.py
 ```
 ## license
 This project is under MIT License. See the license for more information.
