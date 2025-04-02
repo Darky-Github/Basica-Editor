@@ -31,13 +31,14 @@ NEW FEATURES
 - Multiple text format.
 
 ## Installation guide
-```bash for 2.0
+```bash
 git clone https://www.github.com/Darky-Github/Basica-Editor.git
 cd Basica-Editor
 python3 basica3.py
 ```
+If using SSH:
 ```bash
-git clone https://www.github.com/Darky-Github/Basica-Editor.git
+git clone git@github.com:Darky-Github/Basica-Editor.git
 cd Basica-Editor
 python3 basica3.py
 ```
